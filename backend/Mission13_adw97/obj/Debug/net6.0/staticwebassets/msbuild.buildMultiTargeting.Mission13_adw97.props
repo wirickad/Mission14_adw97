@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mission13_adw97.props" />
+</Project>
